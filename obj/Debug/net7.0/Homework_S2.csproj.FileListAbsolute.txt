@@ -1,0 +1,15 @@
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.csproj.AssemblyReference.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.AssemblyInfoInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.AssemblyInfo.cs
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.csproj.CoreCompileInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\bin\Debug\net7.0\Homework_S2.exe
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\bin\Debug\net7.0\Homework_S2.deps.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\bin\Debug\net7.0\Homework_S2.runtimeconfig.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\bin\Debug\net7.0\Homework_S2.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\bin\Debug\net7.0\Homework_S2.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\refint\Homework_S2.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\Homework_S2.genruntimeconfig.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Homework_Seminah_2\Homework_S2\obj\Debug\net7.0\ref\Homework_S2.dll
